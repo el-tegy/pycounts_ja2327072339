@@ -1,10 +1,9 @@
-# type: ignore[attr-defined]
+"""# type: ignore[attr-defined]
 from typing import Optional
 
 from enum import Enum
 from random import choice
 
-import typer
 from rich.console import Console
 
 from pycounts_ja2327072339 import version
@@ -29,12 +28,13 @@ console = Console()
 
 
 def version_callback(print_version: bool) -> None:
-    """Print the version of the package."""
+    """  # Print the version of the package.
+"""
     if print_version:
         console.print(f"[yellow]pycounts_ja2327072339[/] version: [bold blue]{version}[/]")
         raise typer.Exit()
-
-
+"""
+""""
 @app.command(name="")
 def main(
     name: str = typer.Option(..., help="Person to greet."),
@@ -55,7 +55,10 @@ def main(
         help="Prints the version of the pycounts_ja2327072339 package.",
     ),
 ) -> None:
-    """Print a greeting with a giving name."""
+"""
+"""
+#Print a greeting with a giving name.
+
     if color is None:
         color = choice(list(Color))
 
@@ -65,3 +68,4 @@ def main(
 
 if __name__ == "__main__":
     app()
+"""

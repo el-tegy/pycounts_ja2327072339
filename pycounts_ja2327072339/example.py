@@ -1,8 +1,10 @@
 """Example of code."""
 
-
+"""
 def hello(name: str) -> str:
-    """Just an greetings example.
+    """
+"""
+#Just an greetings example.
 
     Args:
         name (str): Name to greet.
@@ -16,4 +18,4 @@ def hello(name: str) -> str:
             >>> hello("Roman")
             'Hello Roman!'
     """
-    return f"Hello {name}!"
+# return f"Hello {name}!"
