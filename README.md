@@ -11,7 +11,7 @@
 [![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pycounts_ja2327072339/pycounts_ja2327072339/blob/master/.pre-commit-config.yaml)
 [![Semantic Versions](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--versions-e10079.svg)](https://github.com/pycounts_ja2327072339/pycounts_ja2327072339/releases)
 [![License](https://img.shields.io/github/license/pycounts_ja2327072339/pycounts_ja2327072339)](https://github.com/pycounts_ja2327072339/pycounts_ja2327072339/blob/master/LICENSE)
-![Coverage Report](assets/images/coverage.svg)
+![Coverage Report]("./assets/images/coverage.svg")
 
 Awesome `pycounts_ja2327072339` is a Python cli/package created with https://github.com/TezRomacH/python-package-template
 
