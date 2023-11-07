@@ -2,18 +2,18 @@
 
 <div align="center">
 
-[![Build status](https://github.com/pycounts_ja2327072339/workflows/build/badge.svg?branch=master&event=push)](https://github.com/pycounts_ja2327072339/pycounts_ja2327072339/actions?query=workflow%3Abuild)
+[![Build status](https://github.com/el-tegy/pycounts_ja2327072339/workflows/build/badge.svg?branch=master&event=push)](https://github.com/pycounts_ja2327072339/pycounts_ja2327072339/actions?query=workflow%3Abuild)
 [![Python Version](https://img.shields.io/pypi/pyversions/pycounts_ja2327072339.svg)](https://pypi.org/project/pycounts_ja2327072339/)
-[![Dependencies Status](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)](https://github.com/pycounts_ja2327072339/pycounts_ja2327072339/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Aapp%2Fdependabot)
+[![Dependencies Status](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)](https://github.com/el-tegy/pycounts_ja2327072339/pycounts_ja2327072339/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Aapp%2Fdependabot)
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Security: bandit](https://img.shields.io/badge/security-bandit-green.svg)](https://github.com/PyCQA/bandit)
-[![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pycounts_ja2327072339/pycounts_ja2327072339/blob/master/.pre-commit-config.yaml)
-[![Semantic Versions](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--versions-e10079.svg)](https://github.com/pycounts_ja2327072339/pycounts_ja2327072339/releases)
-[![License](https://img.shields.io/github/license/pycounts_ja2327072339/pycounts_ja2327072339)](https://github.com/pycounts_ja2327072339/pycounts_ja2327072339/blob/master/LICENSE)
-![Coverage Report]("./assets/images/coverage.svg")
+[![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/el-tegy/pycounts_ja2327072339/pycounts_ja2327072339/blob/master/.pre-commit-config.yaml)
+[![Semantic Versions](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--versions-e10079.svg)](https://github.com/el-tegy/pycounts_ja2327072339/pycounts_ja2327072339/releases)
+[![License](https://img.shields.io/github/license/el-tegy/pycounts_ja2327072339/pycounts_ja2327072339)](https://github.com/el-tegy/pycounts_ja2327072339/pycounts_ja2327072339/blob/master/LICENSE)
+![Coverage Report](/assets/images/coverage.svg)
 
-Awesome `pycounts_ja2327072339` is a Python cli/package created with https://github.com/TezRomacH/python-package-template that allows you to calculate word counts in a text file!
+Awesome `pycounts_ja2327072339` is a Python cli/package that allows you to calculate word counts in a text file!
 
 On this project, the emphasis was on setting up a bleeding-edge python package architecture that complies with python standards and can be easily industrialised.  
 
