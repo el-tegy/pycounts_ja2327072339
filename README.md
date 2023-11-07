@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Build status](https://github.com/pycounts_ja2327072339/pycounts_ja2327072339/workflows/build/badge.svg?branch=master&event=push)](https://github.com/pycounts_ja2327072339/pycounts_ja2327072339/actions?query=workflow%3Abuild)
+[![Build status](https://github.com/pycounts_ja2327072339/workflows/build/badge.svg?branch=master&event=push)](https://github.com/pycounts_ja2327072339/pycounts_ja2327072339/actions?query=workflow%3Abuild)
 [![Python Version](https://img.shields.io/pypi/pyversions/pycounts_ja2327072339.svg)](https://pypi.org/project/pycounts_ja2327072339/)
 [![Dependencies Status](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)](https://github.com/pycounts_ja2327072339/pycounts_ja2327072339/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Aapp%2Fdependabot)
 
@@ -13,7 +13,9 @@
 [![License](https://img.shields.io/github/license/pycounts_ja2327072339/pycounts_ja2327072339)](https://github.com/pycounts_ja2327072339/pycounts_ja2327072339/blob/master/LICENSE)
 ![Coverage Report]("./assets/images/coverage.svg")
 
-Awesome `pycounts_ja2327072339` is a Python cli/package created with https://github.com/TezRomacH/python-package-template
+Awesome `pycounts_ja2327072339` is a Python cli/package created with https://github.com/TezRomacH/python-package-template that allows you to calculate word counts in a text file!
+
+On this project, the emphasis was on setting up a bleeding-edge python package architecture that complies with python standards and can be easily industrialised.  
 
 </div>
 
