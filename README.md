@@ -15,7 +15,7 @@
 
 Awesome `pycounts_ja2327072339` is a Python cli/package that allows you to calculate word counts in a text file!
 
-On this project, the emphasis was on setting up a bleeding-edge python package architecture that complies with python standards and can be easily industrialised.  
+On this project, the emphasis is on setting up a bleeding-edge python package architecture that complies with python standards and can be easily industrialised.  
 
 </div>
 
